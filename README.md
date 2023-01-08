@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adenike
-- 👀 I’m interested in Tech and Designs
-- 🌱 I’m currently learning Technical writing
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
