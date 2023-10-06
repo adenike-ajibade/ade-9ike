@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adenike
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning ML
+- 👀 Data Scientist [ML Engineer]
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
